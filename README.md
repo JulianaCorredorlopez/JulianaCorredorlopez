@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juliana Corredor López
+#  Juliana Corredor López
 💻 Estudiante de Ingeniería de Sistemas  
 🔐 Aprendiendo Desarrollo Backend & Ciencia de Datos / IA  
 🎮 Desarrollo de experiencias en Unity y Realidad Aumentada  
@@ -70,7 +70,7 @@ Backend desarrollado con Spring Boot.
 
 ## 🌐 Conecta conmigo
 - 💼 LinkedIn: [Juliana Andrea Corredor López](https://www.linkedin.com/in/juliana-andrea-corredor-lopez)
-- 📧 Email: julianacorredor2@gmail.com
+- 📧 Email: julianacorredorlopez2@gmail.com
 
 ---
 
